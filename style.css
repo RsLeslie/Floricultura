@@ -3,6 +3,9 @@
     margin: 0;
     text-decoration: none;
     outline: none;
+    background: linear-gradient(#178DA3,#62C3D5);
+    background-attachment: fixed;
+    
 }
 #header {
     width: 100%;
@@ -29,7 +32,7 @@
 }  
 #header #center-header .Menu ul li a{
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(238, 132, 53);
+    color: #F2A923;
     display: block;
     height: 55px;
     text-align: center;
